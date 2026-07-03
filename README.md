@@ -25,11 +25,6 @@ A payroll worksheet that calculates employee compensation, overtime pay, taxes, 
 - Autofill
 - Spreadsheet organization
 
-### Key Outcomes
-- Automate payroll calculations
-- Calculate overtime and gross pay
-- Understand how formulas work across rows
-
 ---
 
 ## 2. Gradebook Tracker
@@ -51,12 +46,7 @@ A gradebook spreadsheet used to calculate new employees' performance on the comp
 - Statistical calculations
 - Data formatting
 - Spreadsheet reporting
-
-### Key Outcomes
-- Calculate employee averages
-- Identify highest and lowest grades
-- Generate new employees' performance summaries
-- Column Charts
+- Creating charts
 
 ---
 
@@ -77,11 +67,6 @@ A weighted decision-making model that compares multiple options using selected c
 - Data analysis
 - Formula-driven comparisons
 
-### Key Outcomes
-- Compare alternatives objectively
-- Rank options using data
-- Support decision-making with quantitative analysis
-
 ---
 
 ## 4. Sales Database
@@ -100,12 +85,6 @@ A sales record database used to calculate the best sales people in the departmen
 - Database management
 - Sorting and filtering
 - Creating charts
-
-
-### Key Outcomes
-- Manage structured sales records
-- Prepare data for analysis and reporting
-- Pie charts
 
 ---
 
@@ -135,9 +114,6 @@ An inventory management system for tracking vehicle information, mileage, and wa
 - Filtering and sorting
 - Data cleaning
 
-### Key Outcomes
-- Track mileage efficiently
-- Column charts
 ---
 
 # 🛠 Complete Function List Used Across All Projects
